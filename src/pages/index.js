@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>GYM BARAN</title>
+        <title>Gym Baran</title>
         <meta
           name="description"
           content="Exercise is a very important need for our body. Health and fitness will be obtained if you can do regular exercise and run a healthy routine."
