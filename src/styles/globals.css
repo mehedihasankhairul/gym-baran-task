@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+@font-face {
+    font-family: "SportingGrotesque";
+    font-weight: 400;
+    src: url(../assets/fonts/SportingGrotesque-Regular.woff2) format("woff2");
+  }
+  @font-face {
+    font-family: "SportingGrotesque";
+    font-weight: 700;
+    src: url(../assets/fonts/SportingGrotesque-Bold.woff2) format("woff2");
+  }
+
+  .sporting {
+    font-family: SportingGrotesque, sans-serif;
+    font-weight: 400;
+  }
+  
+  .navFont {
+    font-family: Poppins !important;
+    font-weight: 400;
+  }
+  
+  .sporting-bold {
+    font-family: SportingGrotesque, sans-serif;
+    font-weight: 700;
+  }
