@@ -4,7 +4,7 @@
 ### This project is built with Next.js and Tailwind CSS and DaisyUI
 
 
-### Demo [https://gym-baran.vercel.app/](https://gym-baran.vercel.app/)
+### Demo [https://gym-baran-ird.vercel.app/](https://gym-baran-ird.vercel.app/)
 
 ### Features
 - [x] Next.js
