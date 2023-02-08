@@ -6,7 +6,7 @@
 
 ### Demo [https://gym-baran-ird.vercel.app/](https://gym-baran-ird.vercel.app/)
 
-### Features
+### Technology Used
 - [x] Next.js
 - [x] Tailwind CSS
 - [x] DaisyUI
