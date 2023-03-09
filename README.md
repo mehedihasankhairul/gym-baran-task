@@ -1,6 +1,8 @@
 ## Getting Started
  
  # Gym-Baran is Fontend Test for IRD Fundation
+  
+### Gym Baran is a Landing page for Gym House, Here is showing the services and features of gym house.
 ### This project is built with Next.js and Tailwind CSS and DaisyUI
 
 
